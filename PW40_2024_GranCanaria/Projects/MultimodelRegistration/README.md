@@ -21,7 +21,7 @@ key_investigators:
   affiliation: University of Michigan
   country: USA
 
-- name: Allemand David
+- name: Allemang David
   affiliation: Kitware
   country: USA
 
