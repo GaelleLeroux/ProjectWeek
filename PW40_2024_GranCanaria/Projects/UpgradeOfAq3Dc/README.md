@@ -25,7 +25,7 @@ key_investigators:
   affiliation: CPE Lyon
   country: France
 
-- name: Allemand David
+- name: Allemang David
   affiliation: Kitware
   country: USA
 
